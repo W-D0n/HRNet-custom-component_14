@@ -1,0 +1,30 @@
+{
+  "name": "wardi-kamal-component",
+  "version": "0.0.1",
+  "description": "react-component for 14's project",
+  "main": "index.js",
+  "author": "wardi kamal",
+  "license": "MIT",
+  "scripts": {
+    "lib": "rollup -c"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-react": "^7.16.7",
+    "@rollup/plugin-babel": "^5.3.1",
+    "@rollup/plugin-node-resolve": "^13.2.1",
+    "babel-loader": "^8.2.5",
+    "postcss": "^8.4.12",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "rollup": "^2.70.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "dependencies": {}
+}
