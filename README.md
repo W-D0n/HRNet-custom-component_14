@@ -19,5 +19,8 @@ This component need props :
 
 ### At this stage
 Please notice : this is a "work in progress" state of project and styles or shapes or not definitive.
+<<<<<<< HEAD
 
 Keep in touch :)
+=======
+>>>>>>> 9bf0836e2fa027e225dac517815f9d8697ecbf07
