@@ -1,22 +1,22 @@
 {
-  "name": "wardi-kamal-component",
-  "version": "0.0.9",
+  "name": "my-modal-component",
+  "version": "0.0.1",
   "description": "react-component for 14's project",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "author": "wardi kamal",
+  "author": "D0natelll0",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WARDI-Kamal/wardi-kamal-comonent.git"
+    "url": "git+https://github.com/D0natelll0/WealthHealth-component_14.git"
   },
   "bugs": {
-    "url": "https://github.com/WARDI-Kamal/wardi-kamal-comonent/issues"
+    "url": "https://github.com/D0natelll0/WealthHealth-component_14/issues"
   },
-  "homepage": "https://github.com/WARDI-Kamal/wardi-kamal-comonent#readme",
+  "homepage": "https://github.com/D0natelll0/WealthHealth-component_14#readme",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-react": "^7.16.7",
