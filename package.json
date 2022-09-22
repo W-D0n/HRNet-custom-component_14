@@ -4,19 +4,19 @@
   "description": "react-component for 14's project",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "author": "D0natelll0",
+  "author": "W-Kamal",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D0natelll0/WealthHealth-component_14.git"
+    "url": "git+https://github.com/W-Kamal/WealthHealth-custom-component_14.git"
   },
   "bugs": {
-    "url": "https://github.com/D0natelll0/WealthHealth-component_14/issues"
+    "url": "https://github.com/W-Kamal/WealthHealth-custom-component_14/issues"
   },
-  "homepage": "https://github.com/D0natelll0/WealthHealth-component_14#readme",
+  "homepage": "https://github.com/W-Kamal/WealthHealth-custom-component_14#readme",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-react": "^7.16.7",
